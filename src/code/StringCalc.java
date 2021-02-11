@@ -17,8 +17,12 @@ public class StringCalc {
         }
 
     }
-
-    private int stringToInt(String input) {
+  
+    
+    
+    
+    
+   private int stringToInt(String input) {
         return Integer.parseInt(input);
     }
 
